@@ -8,6 +8,10 @@
 int main()
 {
   printf("hello, world\n");
+  //Pg. 8 alternate implemenation
+  printf("hello, ");
+  printf("world");
+  printf("\n");
   
   return 0; //Needed because the main is now type int
 }
